@@ -1,0 +1,21 @@
+body{
+    background-color: #F5E4BA;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 800px;
+    padding: 20px;
+}
+
+h1{
+    color:#5D9AF5;
+    text-shadow: 0.5px 0.5px 0px black;
+}
+
+p{
+    color: black;
+}
